@@ -6,9 +6,7 @@ package 车票购票程序;
  **/
 public class Main {
     private int calculation;
-    private int caculation;
-    private int clculation;
-    private int alculation;
+    
 
     public int getCalculation() {
         return calculation;
